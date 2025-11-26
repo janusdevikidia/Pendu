@@ -1,2 +1,2 @@
 # Pendu
-Jeu du pendu qui marche dans un Bash.
+Jeu du pendu qui marche dans une console bash.
